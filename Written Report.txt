@@ -1,0 +1,9 @@
+Overall, this analysis found that the school type, the total number of students in the school, and the schools' per student budget seem to 
+	affect test scores. Noteably, the schools with the best performances were charter schools, schools with a small to medium size, 
+	and schools with lower spending ranges.
+School type is a huge factor: when looking at the percent of students who passed overall, the highest performing schools were all Charter
+	schools, and the lowest were all District schools. For reference, the lowest performing Charter school had an overall passing rate
+	of 89.23%, while the highest performing District school had an overall passing rate of 54.64%.
+The differences in test scores between grades were also calculated, and for both math and reading test scores, grades were surprisingly
+	similar between each grade across every school. Test scores generally varied by only one point across every grade, and this remains
+	true for nearly every school.
